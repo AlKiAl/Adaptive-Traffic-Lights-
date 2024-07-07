@@ -1,1 +1,3 @@
-# Adaptive-Traffic-Lights-
+https://onlinegdb.com/nlnXMnWUG -- ссылка на проект с возможностью сиеминутного запуска
+
+# О синхронизации светофоров
